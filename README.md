@@ -54,4 +54,4 @@ SLAMS-2.0 was designed and implemented as a primarily independent research effor
 
 The model originated during my PhD research at the University of Oxford (2016–2022) under the NERC large grant *COMICS* (Controls over Ocean Mesopelagic Interior Carbon Storage; NE/M020835/2) and has continued development with support from the European Space Agency (ESA) Living Planet Fellowship *SLAM DUNK* (Contract No. 4000144464/24/I-DT-lr).
 
-The original model concept was developed by [Dr. Tinna Jokulsdottir and Prof. David Archer](https://doi.org/10.5194/gmd-9-1455-2016) (2016), whose work laid the scientific groundwork for SLAMS-2.0.
+The original model concept was developed by [Dr. Tinna Jokulsdottir and Prof. David Archer (2016)](https://doi.org/10.5194/gmd-9-1455-2016), whose work laid the scientific groundwork for SLAMS-2.0.
