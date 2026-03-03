@@ -6,7 +6,7 @@ SLAMS-2.0 is a modular, high-performance particle-resolving framework designed t
 
 The model combines stochastic process representation and Lagrangian particle tracking with physically grounded aggregation and settling dynamics to investigate how particulate organic carbon is transferred from the surface ocean to depth.
 
-![image](https://github.com/user-attachments/assets/6c3b6e19-0f72-41c3-beb2-1bd9a2471ff6)
+![image](https://github.com/user-attachments/assets/ef4f2242-b769-4eb2-9105-1604a241ba6d)
 *SLAMS-2.0 architecture.*
 
 ## Key Features
